@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Algorithms_Python.iml" filepath="$PROJECT_DIR$/.idea/Algorithms_Python.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/1000_Algorithms_In_Python/.idea/1000_Algorithms_In_Python.iml" filepath="$USER_HOME$/PycharmProjects/1000_Algorithms_In_Python/.idea/1000_Algorithms_In_Python.iml" />
     </modules>
   </component>
 </project>

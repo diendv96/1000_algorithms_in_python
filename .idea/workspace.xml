@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0021136b-cbe9-448d-b340-f491026a235a" name="Default" comment="" />
+    <list default="true" id="0021136b-cbe9-448d-b340-f491026a235a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Algorithms_Python/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Algorithms_Python/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Algorithms_Python/check_palindrome_number.py" />
+      <change type="MOVED" beforePath="$USER_HOME$/PycharmProjects/Algorithms_Python/.idea/Algorithms_Python.iml" afterPath="$USER_HOME$/PycharmProjects/Algorithms_Python/.idea/1000_Algorithms_In_Python.iml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/PycharmProjects/Algorithms_Python/.idea/workspace.xml" afterPath="$USER_HOME$/PycharmProjects/Algorithms_Python/.idea/workspace.xml" />
+    </list>
     <ignored path="Algorithms_Python.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -19,6 +25,39 @@
   <component name="FavoritesManager">
     <favorites_list name="Algorithms_Python" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="1.check_palindrome_number.py" pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/PycharmProjects/1000_Algorithms_In_Python/1.check_palindrome_number.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="70" selection-start-line="22" selection-start-column="70" selection-end-line="22" selection-end-column="70" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/PycharmProjects/Algorithms_Python" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/PycharmProjects/Algorithms_Python/.gitignore" />
+        <option value="$USER_HOME$/PycharmProjects/Algorithms_Python/check_palindrome_number.py" />
+        <option value="$USER_HOME$/PycharmProjects/1000_Algorithms_In_Python/1.check_palindrome_number.py" />
+      </list>
+    </option>
+  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
@@ -31,14 +70,14 @@
     <option name="width" value="1370" />
     <option name="height" value="772" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -60,8 +99,12 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Algorithms_Python" />
+              <option name="myItemId" value="1000_Algorithms_In_Python" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1000_Algorithms_In_Python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -71,8 +114,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MyBlog" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/MyBlog" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$USER_HOME$/PycharmProjects/Algorithms_Python/.gitignore" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
@@ -329,5 +373,23 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/PycharmProjects/1000_Algorithms_In_Python/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/1000_Algorithms_In_Python/1.check_palindrome_number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="70" selection-start-line="22" selection-start-column="70" selection-end-line="22" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
