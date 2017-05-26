@@ -45,7 +45,7 @@ htmlcov/
 .cache
 nosetests.xml
 coverage.xml
-*,cover
+*.cover
 .hypothesis/
 
 # Translations
@@ -95,4 +95,8 @@ ENV/
 # Rope project settings
 .ropeproject
 
-.gitignore
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
